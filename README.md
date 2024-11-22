@@ -104,5 +104,6 @@ We build with:
     Configure your nameserver setting from netlify setting
     ![Step 9](/assets/step9.png)  
 
+5. **Your Website Successfully Deployed**
 
 Looking forward to working with you. Let’s create greatness! 🚀  
