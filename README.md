@@ -1,7 +1,7 @@
 
 ![Creative Supply](/assets/readme.png)  
 
-# Welcome to Creative Supply 🌟  
+# Welcome to [Creative Supply](https://skycast.site/) 🌟  
 
 Hi there! I’m **Ghirah Madani**, and I’m thrilled to introduce **Creative Supply**, a vibrant and innovative creative agency. Our mission is to bring bold ideas to life by crafting stunning visuals, unique designs, and impactful branding solutions.  
 
@@ -67,7 +67,42 @@ We build with:
     git commit -m "Update Message"
     git push origin main
 
-# Deployment 🌟 
+# Deployment 🌟  
+1. **Connect Your Github Account to Netlify**
+
+    Log in using Github Account or Just Use Your Email
+
+    ![Step 1](/assets/step1.png)  
+
+    Import Your Existing Project from Github Repository
+    ![Step 2](/assets/step2.png)  
+
+2. **Auto Deploy With Netlify**
+
+    Deploy project from Github (don't forget to push your repo first!)
+    ![Step 3](/assets/step3.png)
+    
+    Choose between your repository you want to deploy
+    ![Step 4](/assets/step4.png)
+
+    Configuration your website name
+    ![Step 5](/assets/step5.png)
+
+    Wait until the process is finish
+    ![Step 6](/assets/step6.png)
+
+3. **Domain Registration**
+    
+    First Login and buy domain
+    ![Step 7](/assets/step7.png)
+
+    After buying some domain you can configuration your domain in publisher settings
+    ![Step 8](/assets/step8.png)
+
+4. **Configuration Your Custom Domain**
+
+    Configure your nameserver setting from netlify setting
+    ![Step 9](/assets/step9.png)  
 
 
 Looking forward to working with you. Let’s create greatness! 🚀  
